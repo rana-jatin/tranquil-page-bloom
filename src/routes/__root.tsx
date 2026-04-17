@@ -36,6 +36,10 @@ export const Route = createRootRoute({
       { property: "og:description", content: "A gentle daily companion for mindfulness, journaling, and rest." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "Sereno — A calm space for your mind" },
+      { name: "twitter:description", content: "A gentle daily companion for mindfulness, journaling, and rest." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a9276177-02c8-4f98-9ec1-74133ecbc345/id-preview-8234297e--5f3588b0-61a9-479e-a223-c7184930a32f.lovable.app-1776441223520.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a9276177-02c8-4f98-9ec1-74133ecbc345/id-preview-8234297e--5f3588b0-61a9-479e-a223-c7184930a32f.lovable.app-1776441223520.png" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
